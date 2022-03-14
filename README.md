@@ -1,4 +1,3 @@
 # Ruby
-Estudo sobre a linguagem Ruby.
+Estudo sobre a linguagem Ruby.(Entendo como a lingugem funciona)
 
-Resolvi conhecer outras linguagens, Ruby foi uma delas, a proxima sera Phython.
